@@ -7,3 +7,5 @@ write-host(getIP)
 $IP = getIP
 
 write-host("This is my machines IP: $IP")
+
+test
